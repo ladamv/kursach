@@ -27,15 +27,8 @@ namespace kursachTry2
             cnn = new SqlConnection(cnnSQl);
             await cnn.OpenAsync();
 
-            TableList.GridLines = true;
-            TableList.FullRowSelect = true;
-
-            TableList.View = View.Details;
-            if (itemChngd == "Cars")
-            {
-                TableList.Columns.Add("Smth");
-            }
-
+      
+        
 
             //.ToString();
             //SelectedItem.ToString();
@@ -75,13 +68,21 @@ namespace kursachTry2
 
         public void toolStripComboBox1_Click(object sender, EventArgs e)
         {
-            
+            itemChngd = Combo.SelectedIndex.ToString();
+         
+
         }
 
         public void Selected(object sender, EventArgs e)
         {
-             itemChngd = Combo.SelectedIndex.ToString();
-         
+            TableList.GridLines = true;
+            TableList.FullRowSelect = true;
+
+            TableList.View = View.Details;
+            if (itemChngd == "Cars")
+            {
+                TableList.Columns.Add("Smth");
+            }
         }
     }
 }

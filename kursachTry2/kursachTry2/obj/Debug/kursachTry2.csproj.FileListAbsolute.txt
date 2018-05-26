@@ -11,3 +11,9 @@ Z:\управление данными\КурсачКузенкова\kursachTry
 C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\bin\Debug\kursachTry2.exe.config
 C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.exe
 C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.pdb
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\bin\Debug\kursachTry2.exe
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\bin\Debug\kursachTry2.pdb
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.Form1.resources
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.Properties.Resources.resources
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.csproj.GenerateResource.Cache
