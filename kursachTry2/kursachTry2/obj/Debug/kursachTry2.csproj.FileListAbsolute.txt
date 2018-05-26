@@ -1,0 +1,13 @@
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\bin\Debug\kursachTry2.exe.config
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\bin\Debug\kursachTry2.exe
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\bin\Debug\kursachTry2.pdb
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.csprojResolveAssemblyReference.cache
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.Form1.resources
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.Properties.Resources.resources
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.csproj.GenerateResource.Cache
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.csproj.CoreCompileInputs.cache
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.exe
+Z:\управление данными\КурсачКузенкова\kursachTry2\kursachTry2\obj\Debug\kursachTry2.pdb
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\bin\Debug\kursachTry2.exe.config
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.exe
+C:\Users\student\Desktop\курсач\kursachTry2\kursachTry2\obj\Debug\kursachTry2.pdb
